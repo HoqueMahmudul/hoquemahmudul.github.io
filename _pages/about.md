@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I completed my M.S. in Advanced Computing at [Morgan State University](https://www.morgan.edu/) in Spring 2025, where I was fortunate to be advised by [Dr. Md Mahmudur Rahman](https://www.morgan.edu/computer-science/faculty-and-staff/md-rahman). I am currently a Ph.D. student in Advanced and Equitable Computing at the same institution.  
+I completed my M.S. in *Advanced Computing* at [Morgan State University](https://www.morgan.edu/) in Spring 2025, where I was fortunate to be advised by [Dr. Md Mahmudur Rahman](https://www.morgan.edu/computer-science/faculty-and-staff/md-rahman).
 
 My graduate research was supported by a [National Science Foundation (NSF) grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131207&HistoricalAwards=false) titled *“Deep Learning-Based Automated Concept and Caption Generation of Medical Images.”* In this project, I conducted an empirical investigation of vision–language models for automated radiology image captioning, optimizing state-of-the-art architectures through parameter-efficient fine-tuning. My work focused on developing frameworks for caption generation that identify anatomical structures, pathological findings, and imaging characteristics using clinically appropriate terminology.  
 
@@ -15,7 +15,7 @@ In parallel, I contributed to research on detecting fingerprints left by generat
 
 At the same time, I worked as a research associate at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/additive-manufacturing) on an additive manufacturing quality assurance project. I developed a 3D-GAN framework to synthesize pore structures from X-ray computed tomography data, creating benchmark datasets for non-destructive evaluation and digital twin development.  
 
-I am currently a Ph.D. student in Advanced and Equitable Computing at Morgan State University, where I am working on advancing three-dimensional convective cloud analysis using generative AI and deep learning. The project focuses on developing and expanding annotated datasets of convective updraft cells from atmospheric simulations and creating a framework for 3D segmentation to support severe weather forecasting and climate modeling.  
+I am currently a Ph.D. student in *Advanced and Equitable Computing* at Morgan State University, where I am working on advancing three-dimensional convective cloud analysis using generative AI and deep learning. The project focuses on developing and expanding annotated datasets of convective updraft cells from atmospheric simulations and creating a framework for 3D segmentation to support severe weather forecasting and climate modeling.  
 
 My research interests lie in various facets of generative AI, particularly in the development of generative and vision–language models that are more interpretable, practical, and reliable for use in high-stakes domains such as healthcare.  
 
