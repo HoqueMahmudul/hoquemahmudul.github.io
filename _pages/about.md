@@ -33,7 +33,8 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Aug. 2023]** Began M.S. in Advanced Computing at Morgan State University with NSF fellowship support.  
 
 <details>
-<summary><strong style="font-weight:500;">▼ Show more</strong></summary>
+<summary>Show more</summary>
+
 <br>
 
 - **[Aug. 2023]** Started *Graduate Research Assistant* position on *NSF Grant #2131307*.  
@@ -41,5 +42,6 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Nov. 2022]** Graduated with *B.S. in Computer Science and Engineering* from *North South University, Bangladesh.*  
 
 </details>
+
 
 
