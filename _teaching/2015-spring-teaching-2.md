@@ -8,8 +8,6 @@ date: 2025-09-01
 location: "Baltimore, Maryland"
 ---
 
-**Teaching Assistant at Morgan State University**
-
 **Fall 2025:**  
 Undergraduate course [**COSC 251 — Introduction to Data Science**](https://catalog.morgan.edu/preview_program.php?catoid=24&poid=5398)
 
