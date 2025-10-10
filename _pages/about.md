@@ -1,11 +1,11 @@
-
+---
 permalink: /
-title: "About"
+title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
-redirect_from:
-
-/about/
-/about.html
+redirect_from: 
+  - /about/
+  - /about.html
+---
 
 
 I completed my M.S. in Advanced Computing at Morgan State University in Spring 2025, where I was fortunate to be advised by Dr. Md Mahmudur Rahman. I am currently a Ph.D. student in Advanced and Equitable Computing at the same institution.
