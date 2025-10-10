@@ -1,11 +1,11 @@
 ---
 title: "Teaching Assistant — North South University"
 collection: teaching
-type: "Undergraduate Courses"
+type: 
 permalink: /teaching/2021-2022-nsu-ta
-venue: "North South University, Department of Electrical and Computer Engineering"
+venue: 
 date: 2021-08-01
-location: "Dhaka, Bangladesh"
+location: 
 ---
 
 **Fall 2021 – Spring 2022:**  
