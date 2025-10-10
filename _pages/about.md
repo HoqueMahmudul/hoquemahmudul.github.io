@@ -33,13 +33,15 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Aug. 2023]** Began M.S. in Advanced Computing at Morgan State University with NSF fellowship support.  
 
 <details>
-<summary>Show more</summary>
+<summary><strong>Show more</strong></summary>
 
-- **[Aug. 2023]** Started Graduate Research Assistant position on NSF Grant #2131307.
-  
-- **[May 2023]** Completed Data Analyst Internship at [iFarmer Ltd.](https://ifarmer.asia/)
-  
-- **[Nov. 2022]** Graduated with B.S. in Computer Science and Engineering from [North South University](https://www.northsouth.edu/), Bangladesh.
+<br>
+
+<ul>
+  <li><strong>[Aug. 2023]</strong> Started <em>Graduate Research Assistant</em> position on <em>NSF Grant #2131307</em>.</li>
+  <li><strong>[May 2023]</strong> Completed <em>Data Analyst Internship</em> at <em>iFarmer Ltd.</em></li>
+  <li><strong>[Nov. 2022]</strong> Graduated with <em>B.S. in Computer Science and Engineering</em> from <em>North South University, Bangladesh.</em></li>
+</ul>
 
 </details>
 
