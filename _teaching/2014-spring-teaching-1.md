@@ -8,13 +8,9 @@ date: 2021-08-01
 location: "Dhaka, Bangladesh"
 ---
 
-**Fall 2021 – Spring 2022**  
-Undergraduate Teaching Assistant for the following courses:
+**Fall 2021 – Spring 2022:**  
+Undergraduate courses [**PHY 108 — Physics II**](https://ece.northsouth.edu/courses/phy-108/) and [**MAT 361 — Probability and Statistics**](https://ece.northsouth.edu/courses/mat-361/)
 
-- [**PHY 108 — Physics II**](https://ece.northsouth.edu/courses/phy-108/):  
-  Covered topics such as electric charge and Coulomb’s law, electric fields and field lines, Gauss’s law (cylindrical, planar, and spherical symmetries), electric potential, capacitance, electric current, Ohm’s law, DC and AC circuits, magnetic fields, Ampère’s law, Faraday’s law of induction, and Maxwell’s equations.  
-  Assisted with lab experiments aligned with the theoretical content.
-
-- [**MAT 361 — Probability and Statistics**](https://ece.northsouth.edu/courses/mat-361/):  
-  Covered data types, measures of central tendency and dispersion, random variables, probability distributions, joint and continuous distributions, stochastic independence, mathematical expectation, moment-generating functions, and the central limit theorem.  
-  Supported programming assignments applying probability and statistics concepts.
+Responsibilities included assisting with lectures, lab sessions, and grading assignments.  
+**PHY 108** covered topics such as electric charge, Coulomb’s law, electric and magnetic fields, Gauss’s law, electric potential, capacitance, electric current, Ohm’s law, DC and AC circuits, and Maxwell’s equations.  
+**MAT 361** focused on probability distributions, measures of central tendency and dispersion, random variables, independence, the central limit theorem, and programming-based statistical analysis.
