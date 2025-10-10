@@ -35,6 +35,8 @@ My research interests lie in various facets of generative AI, particularly in th
 <details>
 <summary>Show more</summary>
 
+<br>
+
 - **[Aug. 2023]** Started *Graduate Research Assistant* position on *NSF Grant #2131307*.  
 - **[May 2023]** Completed *Data Analyst Internship* at *iFarmer Ltd.*  
 - **[Nov. 2022]** Graduated with *B.S. in Computer Science and Engineering* from *North South University, Bangladesh.*  
