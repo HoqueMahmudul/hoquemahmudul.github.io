@@ -23,25 +23,26 @@ My research interests lie in various facets of generative AI, particularly in th
 
 ## **News**
 
+
 - **[Jun. 2025]** Two workshop papers accepted at *CLEF 2025*.  
-- **[May. 2025]** Awarded the *Best M.S. Thesis Award* by the Department of Computer Science, Morgan State University.  
+- **[May. 2025]** Awarded *Best M.S. Thesis Award*, Department of Computer Science, Morgan State University.  
 - **[Apr. 2025]** Successfully organized the *G.R.I.N.D. Conference* at Morgan State University.  
 - **[Feb. 2025]** Two papers accepted at *IEEE ICMI 2025*.  
 - **[Jan. 2025]** Selected for the *2024 IBM Masters Fellowship*.  
 - **[Oct. 2024]** Paper accepted at *SPIE Medical Imaging 2025*.  
-- **[Aug. 2024]** Elected as the representative of the School of Computer, Mathematical, and Natural Sciences on the Executive Board of the Graduate Student Association.  
-- **[Jun. 2024]** Began a year-long project at *NIST Gaithersburg* as a *PREP Research Associate*.  
-- **[May. 2024]** Achieved *2nd place in caption prediction* at *ImageCLEFmedical 2024*.  
-- **[Aug. 2023]** Began M.S. in *Advanced Computing* at *Morgan State University*.  
+- **[Aug. 2024]** Elected as the representative of the *School of Computer, Mathematical & Natural Sciences* to the *Graduate Student Association Executive Board*.  
+- **[Jun. 2024]** Began a year-long research position at *NIST Gaithersburg* as a *PREP Research Associate*.  
 
 <details>
 <summary><strong>Show more</strong></summary>
 
 <br>
 
-- **[Aug. 2023]** Started as a *Graduate Research Assistant* on *NSF Grant #2131307*.  
-- **[May. 2023]** Completed *Data Analyst Internship* at *iFarmer Ltd.*  
-- **[Nov. 2022]** Graduated with a *B.S. in Computer Science and Engineering* from *North South University, Bangladesh.*  
+<ul>
+  <li><strong>[May. 2024]</strong> Achieved <em>2nd place in caption prediction</em> and <em>9th place in concept detection</em> at <em>ImageCLEFmedical 2024</em>.</li>
+  <li><strong>[Aug. 2023]</strong> Began the <em>M.S. in Advanced Computing</em> program at <em>Morgan State University</em> with NSF fellowship support.</li>
+  <li><strong>[May. 2023]</strong> Completed a <em>Data Analyst Internship</em> at <em>iFarmer Ltd.</em></li>
+</ul>
 
 </details>
 
