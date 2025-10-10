@@ -21,7 +21,7 @@ My research interests lie in various facets of generative AI, particularly in th
 
 ---
 
-### **News**
+## **News**
 
 - **[Jan. 2025]** Two papers accepted to *IEEE ICMI 2025*.  
 - **[Dec. 2024]** Two papers accepted to *CLEF 2025 Working Notes*.  
@@ -35,11 +35,9 @@ My research interests lie in various facets of generative AI, particularly in th
 <details>
 <summary>Show more</summary>
 
-<br>
-
-- **[Aug. 2023]** Started *Graduate Research Assistant* position on *NSF Grant #2131307*.  
-- **[May 2023]** Completed *Data Analyst Internship* at *iFarmer Ltd.*  
-- **[Nov. 2022]** Graduated with *B.S. in Computer Science and Engineering* from *North South University, Bangladesh.*  
+* **[Aug. 2023]** Started Graduate Research Assistant position on NSF Grant #2131307.
+* **[May 2023]** Completed Data Analyst Internship at [iFarmer Ltd.](https://ifarmer.asia/)
+* **[Nov. 2022]** Graduated with B.S. in Computer Science and Engineering from [North South University](https://www.northsouth.edu/), Bangladesh.
 
 </details>
 
