@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About"
+title: "About Me"
 author_profile: true
 redirect_from:
   - /about/
@@ -15,9 +15,9 @@ In parallel, I contributed to research on detecting fingerprints left by generat
 
 At the same time, I worked as a research associate at the [National Institute of Standards and Technology (NIST)](https://www.nist.gov/additive-manufacturing) on an additive manufacturing quality assurance project. I developed a 3D-GAN framework to synthesize pore structures from X-ray computed tomography data, creating benchmark datasets for non-destructive evaluation and digital twin development.  
 
-I am currently working on advancing three-dimensional convective cloud analysis using generative AI and deep learning. This project focuses on developing and expanding annotated datasets of convective updraft cells from atmospheric simulations and creating a framework for 3D segmentation to support severe weather forecasting and climate modeling.  
+I am currently a Ph.D. student in Advanced and Equitable Computing at Morgan State University, where I am working on advancing three-dimensional convective cloud analysis using generative AI and deep learning. The project focuses on developing and expanding annotated datasets of convective updraft cells from atmospheric simulations and creating a framework for 3D segmentation to support severe weather forecasting and climate modeling.  
 
-My research interests lie in various facets of generative AI, particularly in the development of generative and vision–language models that are more interpretable, practical, and reliable for use in high-stakes domains such as healthcare and scientific computing.  
+My research interests lie in various facets of generative AI, particularly in the development of generative and vision–language models that are more interpretable, practical, and reliable for use in high-stakes domains such as healthcare.  
 
 ---
 
@@ -40,3 +40,5 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Nov. 2022]** Graduated with *B.S. in Computer Science and Engineering* from *North South University, Bangladesh.*  
 
 </details>
+
+
