@@ -41,7 +41,7 @@ My research interests lie in various facets of generative AI, particularly in th
 <ul>
   <li><strong>[May. 2024]</strong> Achieved <em>2nd place in caption prediction</em> and <em>9th place in concept detection</em> at <em>ImageCLEFmedical 2024</em>.</li>
   <li><strong>[Aug. 2023]</strong> Began the <em>M.S. in Advanced Computing</em> program at <em>Morgan State University</em> with NSF fellowship support.</li>
-  <li><strong>[May. 2023]</strong> Completed a <em>Data Analyst Internship</em> at <em>iFarmer Ltd.</em></li>
+  <li><strong>[May. 2023]</strong> Began a <em>Data Analyst Internship</em> at <em>iFarmer Ltd.</em></li>
 </ul>
 
 </details>
