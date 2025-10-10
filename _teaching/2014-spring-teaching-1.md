@@ -4,7 +4,7 @@ collection: teaching
 type: 
 permalink: /teaching/2021-2022-nsu-ta
 venue: 
-date: 2021-08-01
+date: 
 location: 
 ---
 
