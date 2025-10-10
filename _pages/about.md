@@ -21,7 +21,7 @@ My research interests lie in various facets of generative AI, particularly in th
 
 ---
 
-## **News**
+## **Recent News**
 
 
 - **[Jun. 2025]** Two workshop papers accepted at *CLEF 2025*.  
