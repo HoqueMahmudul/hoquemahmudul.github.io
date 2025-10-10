@@ -1,20 +1,16 @@
 ---
-title: "Teaching experience 2"
+title: "Teaching Assistant — Morgan State University"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "Undergraduate Course"
+permalink: /teaching/2025-fall-morgan-ta
+venue: "Morgan State University, Department of Computer Science"
+date: 2025-09-01
+location: "Baltimore, Maryland"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Teaching Assistant at Morgan State University**
 
-Heading 1
-======
+**Fall 2025:**  
+Undergraduate course [**COSC 251 — Introduction to Data Science**](https://catalog.morgan.edu/preview_program.php?catoid=24&poid=5398)
 
-Heading 2
-======
-
-Heading 3
-======
+Responsibilities include supporting lectures, lab sessions, and assignments in data wrangling, visualization, and analysis using Python.
