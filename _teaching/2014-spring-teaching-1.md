@@ -1,20 +1,20 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant — North South University"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Undergraduate Courses"
+permalink: /teaching/2021-2022-nsu-ta
+venue: "North South University, Department of Electrical and Computer Engineering"
+date: 2021-08-01
+location: "Dhaka, Bangladesh"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+**Fall 2021 – Spring 2022:**  
+Undergraduate teaching assistant for the following courses:
 
-Heading 1
-======
+- [**PHY 108 — Physics II**](https://ece.northsouth.edu/courses/phy-108/):  
+  Topics include electric charge and Coulomb’s law, electric fields and field lines, Gauss’s law (cylindrical, planar, and spherical symmetries), electric potential, capacitance (series, parallel, and dielectric effects), electric current, Ohm’s law, DC and AC circuits, magnetic fields, Ampère’s law, Faraday’s law of induction, and Maxwell’s equations.  
+  The lab component covered experiments related to the theoretical topics.
 
-Heading 2
-======
-
-Heading 3
-======
+- [**MAT 361 — Probability and Statistics**](https://ece.northsouth.edu/courses/mat-361/):  
+  Covers data and variable types, data collection and tabulation, measures of central tendency and dispersion, random variables, binomial and normal distributions, joint distributions, stochastic independence, mathematical expectation, moment generating functions, and the central limit theorem.  
+  Includes programming assignments integrating probability and statistics concepts.
