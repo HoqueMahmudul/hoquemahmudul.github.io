@@ -17,7 +17,7 @@ At the same time, I worked as a research associate at the [National Institute of
 
 I am currently a Ph.D. student in *Advanced and Equitable Computing* at Morgan State University, where I am working on advancing three-dimensional convective cloud analysis using generative AI and deep learning. The project focuses on developing and expanding annotated datasets of convective updraft cells from atmospheric simulations and creating a framework for 3D segmentation to support severe weather forecasting and climate modeling.  
 
-My research interests lie in various facets of generative AI, particularly in the development of generative and vision–language models that are more interpretable, practical, and reliable for use in high-stakes domains such as healthcare.  
+My research interests lie in various facets of generative AI, particularly in the development of generative and vision–language models that are more interpretable, practical, and reliable for use in high-stakes domains.  
 
 ---
 
