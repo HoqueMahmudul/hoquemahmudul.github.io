@@ -25,7 +25,7 @@ My research interests lie in various facets of generative AI, particularly in th
 
 
 - **[Jun. 2025]** Two workshop papers accepted at *CLEF 2025*.  
-- **[May. 2025]** Awarded *Best M.S. Thesis Award*, Department of Computer Science, Morgan State University.  
+- **[May. 2025]** Awarded *Best Thesis in MS*, Department of Computer Science, Morgan State University.  
 - **[Apr. 2025]** Successfully organized the *G.R.I.N.D. Conference* at Morgan State University.  
 - **[Feb. 2025]** Two papers accepted at *IEEE ICMI 2025*.  
 - **[Jan. 2025]** Selected for the *2024 IBM Masters Fellowship*.  
