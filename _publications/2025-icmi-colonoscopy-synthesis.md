@@ -2,7 +2,7 @@
 title: "Colonoscopy Image Synthesis: Transforming Medical Image Classification With Enhanced Quality and Computational Efficiency"
 collection: publications
 permalink: /publication/2025-icmi-colonoscopy-synthesis
-excerpt: 'Novel approach for generating synthetic colonoscopy images from textual prompts using fine-tuned DreamBooth and LoRA for medical data augmentation.'
+excerpt: 'A framework for generating synthetic colonoscopy images from textual prompts using fine-tuned DreamBooth and LoRA for medical data augmentation.'
 date: 2025-04-05
 venue: '2025 IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11141284'
