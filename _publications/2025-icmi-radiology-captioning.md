@@ -3,7 +3,7 @@ title: "Comparative Analysis of Fine-Tuned Multimodal Models in Radiology Image 
 collection: publications
 permalink: /publication/2025-icmi-radiology-captioning
 excerpt: 'Comparison of selectively fine-tuned multimodal models for automated radiology image captioning, demonstrating efficient LoRA-based adaptation.'
-date: 2025
+date: 2025-04-05
 venue: '2025 IEEE 4th International Conference on Computing and Machine Intelligence (ICMI)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/11141312'
 ---
