@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2025-clef-caption-prediction
 excerpt: 'Investigation of small vision-language models with modality classification for efficient radiology caption generation at ImageCLEFmedical 2025.'
 date: 2025-09-01
-venue: 'CLEF 2025 Working Notes, CEUR Workshop Proceedings'
+venue: 'CLEF 2025, CEUR Workshop Proceedings'
 paperurl: 'https://ceur-ws.org/Vol-4038/paper_187.pdf'
 ---
 
