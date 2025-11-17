@@ -23,7 +23,7 @@ My research interests lie in various facets of generative AI, particularly in th
 
 ## **Recent News**
 
-
+- **[Nov. 2025]** Received *NSF ACCESS HPC allocation* as PI (ID#CIS251271, 750K credits, 2025-2026) for radiology AI research. 
 - **[Jun. 2025]** Two workshop papers accepted at *CLEF 2025*.  
 - **[May. 2025]** Awarded *Best Thesis in MS*, Department of Computer Science, Morgan State University.  
 - **[Apr. 2025]** Successfully organized the *G.R.I.N.D. Conference* at Morgan State University.  
