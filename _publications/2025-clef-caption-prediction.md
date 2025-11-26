@@ -2,7 +2,7 @@
 title: "A Dataset of Synthetic Additive Manufacturing Lack-of-Fusion Pores Generated Using a Three-Dimensional Generative Adversarial Network Based on X-ray Computed Tomography Images"
 collection: publications
 permalink: /publication/2025-nist-am-pore-dataset
-excerpt: 'Synthetic AM lack-of-fusion pores generated using 3D-GAN for benchmarking segmentation and defect detection algorithms.'
+excerpt: 'Synthetic AM lack-of-fusion pores generated using 3D-GAN and original training pores for benchmarking segmentation and defect detection algorithms.'
 date: 2025-11-18
 venue: 'National Institute of Standards and Technology (NIST) Data Publication'
 ---
