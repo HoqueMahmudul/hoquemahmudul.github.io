@@ -31,8 +31,7 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Feb. 2025]** Two papers accepted at *IEEE ICMI 2025*.  
 - **[Jan. 2025]** Selected for the *2024 IBM Masters Fellowship*.  
 - **[Oct. 2024]** Paper accepted at *SPIE Medical Imaging 2025*.  
-- **[Aug. 2024]** Appointed as the representative of the *School of Computer, Mathematical & Natural Sciences* to the *Graduate Student Association Executive Board*.  
-- **[Jun. 2024]** Began internship at *NIST Gaithersburg* as a Research Associate.  
+- **[Aug. 2024]** Appointed as the representative of the *School of Computer, Mathematical & Natural Sciences* to the *Graduate Student Association Executive Board*. 
 
 <details>
 <summary><strong>Show more</strong></summary>
@@ -40,6 +39,7 @@ My research interests lie in various facets of generative AI, particularly in th
 <br>
 
 <ul>
+  <li><strong>[Jun. 2024]</strong> Began internship at <em>NIST Gaithersburg</em> as a <em>Research Associate</em>.</li>
   <li><strong>[May. 2024]</strong> Achieved <em>2nd place in caption prediction</em> at <em>ImageCLEFmedical 2024</em>.</li>
   <li><strong>[Aug. 2023]</strong> Began the <em>M.S. in Advanced Computing</em> program at <em>Morgan State University.</em></li>
   <li><strong>[May. 2023]</strong> Started internship at <em>iFarmer Ltd., Bangladesh</em> as a <em>Data Analyst.</em></li>
