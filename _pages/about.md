@@ -41,7 +41,7 @@ My research interests lie in various facets of generative AI, particularly in th
 <ul>
   <li><strong>[May. 2024]</strong> Achieved <em>2nd place in caption prediction</em> at <em>ImageCLEFmedical 2024</em>.</li>
   <li><strong>[Aug. 2023]</strong> Began the <em>M.S. in Advanced Computing</em> program at <em>Morgan State University.</em></li>
-  <li><strong>[May. 2023]</strong> Started internship at <em>iFarmer Ltd.</em> as a <em>Data Analyst.</em></li>
+  <li><strong>[May. 2023]</strong> Started internship at <em>iFarmer Ltd., Bangladesh</em> as a <em>Data Analyst.</em></li>
 </ul>
 
 </details>
