@@ -23,6 +23,7 @@ My research interests lie in various facets of generative AI, particularly in th
 
 ## **Recent News**
 
+- **[Nov. 2025]** Published additive manufacturing pore dataset at *NIST*.
 - **[Nov. 2025]** Received *NSF ACCESS computational allocation* as PI (ID#CIS251271, 750K credits, 2025-2026) for radiology AI research. 
 - **[Jun. 2025]** Two workshop papers accepted at *CLEF 2025*.  
 - **[May. 2025]** Awarded *Best Thesis in MS*, Department of Computer Science, Morgan State University.  
@@ -31,7 +32,7 @@ My research interests lie in various facets of generative AI, particularly in th
 - **[Jan. 2025]** Selected for the *2024 IBM Masters Fellowship*.  
 - **[Oct. 2024]** Paper accepted at *SPIE Medical Imaging 2025*.  
 - **[Aug. 2024]** Appointed as the representative of the *School of Computer, Mathematical & Natural Sciences* to the *Graduate Student Association Executive Board*.  
-- **[Jun. 2024]** Began internship at *NIST Gaithersburg* as a *Research Associate*.  
+- **[Jun. 2024]** Began internship at *NIST Gaithersburg* as a Research Associate.  
 
 <details>
 <summary><strong>Show more</strong></summary>
