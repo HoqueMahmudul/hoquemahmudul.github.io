@@ -1,29 +1,19 @@
 ---
-title: "Modality-Guided Radiology Caption Prediction with Small Vision-Language Models and Image Classifier"
+title: "A Dataset of Synthetic Additive Manufacturing Lack-of-Fusion Pores Generated Using a Three-Dimensional Generative Adversarial Network Based on X-ray Computed Tomography Images"
 collection: publications
-permalink: /publication/2025-clef-caption-prediction
-excerpt: 'Investigation of small vision-language models with modality classification for efficient radiology caption generation at ImageCLEFmedical 2025.'
-date: 2025-09-01
-venue: 'CLEF 2025, CEUR Workshop Proceedings'
-paperurl: 'https://ceur-ws.org/Vol-4038/paper_187.pdf'
+permalink: /publication/2025-nist-am-pore-dataset
+excerpt: 'Synthetic AM lack-of-fusion pores generated using 3D-GAN for benchmarking segmentation and defect detection algorithms.'
+date: 2025-11-18
+venue: 'National Institute of Standards and Technology (NIST) Data Publication'
+paperurl: 'https://doi.org/10.18434/mds2-3963'
 ---
-
-**Authors:** Raisa Nusrat Chowdhury, Mahmudul Hoque, Md Rakibul Hasan, Ejiga Peter Ojonugwa Oluwafemi, Md Mahmudur Rahman
-
-**Publisher:** CEUR-WS.org  
-**Location:** Madrid, Spain  
+**Authors:** Mahmudul Hoque, Felix Hoyean Kim
+**Publisher:** National Institute of Standards and Technology  
 **Publication Date:** 2025
-
 ---
-
 ## Abstract
-
-This working note describes our contributions to the ImageCLEFmedical 2025 Caption Prediction subtask, in which we investigated various approaches for extracting clinically relevant captions from radiological data. We made six unique submissions. Our study focused on modifying three vision-language models—Qwen-2B, Qwen2.5-3B, and SmolVLM-500M—using the ROCOv2 dataset, which contains radiological image-caption pairings. Three of our submissions employed direct caption generation, whereas the remaining three incorporated an additional image modality classification phase with a ResNet-50 model. The classifier output (e.g., CT, MRI, Ultrasound, Radiograph) was included into the prompt to enhance caption generating efficacy. Among all submissions, Qwen 2B (2B params) emerges as the strongest overall performer, achieving the best scores in Overall (0.2316), Similarity (0.5704), ROUGE (0.1598), Relevance (0.3717), UMLS Concepts F1 (0.0741), AlignScore (0.1087), and Factuality Average (0.0914). These results indicate that Qwen 2B is highly effective at producing clinically accurate and factually aligned captions. In contrast, SmolVLM (Classification) leads in BERTScore (0.5375) and BLEURT (0.2576), suggesting that it excels in capturing semantic meaning and producing fluent, human-like text. These complementary strengths reflect different modeling priorities: Qwen 2B focuses more on factual and structural alignment, while SmolVLM emphasizes linguistic similarity and coherence. These findings underscore the effectiveness of hybrid pipelines that combine classification with prompt adaptation. Moreover, they show that even resource-efficient models, when fine-tuned and guided properly, can provide clinically valuable outputs. Our experiments support the ongoing shift toward smaller, adaptable vision–language systems for medical AI, offering practical potential for deployment in low-resource settings.
-
+Synthetic additive manufacturing (AM) lack-of-fusion (LOF) pores are generated using a three-dimensional Generative Adversarial Network (3D-GAN) framework. The LOF pores, introduced by varying laser-based powder bed fusion (L-PBF) process parameters, were extracted from segmented X-ray computed tomography (XCT) scans previously published (doi:10.18434/M32162). The extracted pores served as training data for the 3D-GAN model, which was designed to learn and generate the complex morphologies characteristic of real AM pores. To reduce the generation of fragmented components rather than singular unified structures, a component aware loss module is integrated into the adversarial learning mechanism. The dataset contains 3503 synthetic and training pores, each represented as binary 3D volumes in .mat format and as corresponding two-dimensional (2D) .tiff image stacks. The synthetic pores are developed to generate realistic simulated XCT data sets with AM pore morphology for evaluation and benchmarking of different image segmentation and defect detection algorithms under controlled ground truth conditions. The pores may be useful for structural integrity and other digital twin applications.
 ## Keywords
-
-Vision Language Model, Medical Image Captioning, Qwen2.5-VL, Qwen2-VL, SmolVLM
-
+Additive Manufacturing, Defect, Pore Generation, Three-Dimensional Generative Adversarial Network, Defect Dataset Development, Pore Morphology, Component Aware Loss Module, Non-Destructive Evaluation
 ---
-
-[Paper Link](https://ceur-ws.org/Vol-4038/paper_187.pdf)
+[Dataset Link](https://doi.org/10.18434/mds2-3963)
