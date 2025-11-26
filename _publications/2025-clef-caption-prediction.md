@@ -5,7 +5,6 @@ permalink: /publication/2025-nist-am-pore-dataset
 excerpt: 'Synthetic AM lack-of-fusion pores generated using 3D-GAN for benchmarking segmentation and defect detection algorithms.'
 date: 2025-11-18
 venue: 'National Institute of Standards and Technology (NIST) Data Publication'
-paperurl: 'https://doi.org/10.18434/mds2-3963'
 ---
 
 **Authors:** Mahmudul Hoque, Felix Hoyean Kim
