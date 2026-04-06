@@ -5,7 +5,7 @@ permalink: /publication/2026-nist-ams-3dgan-lof-defects
 excerpt: 'A 3D-GAN framework for generating synthetic lack-of-fusion pore structures from XCT scans of additively manufactured CoCr parts, with applications in NDE and digital twin development.'
 date: 2026-01-23
 venue: 'Advanced Manufacturing Series (NIST AMS)'
-paperurl: ''
+paperurl: 'https://doi.org/10.6028/NIST.AMS.100-73'
 ---
 
 **Authors:** Mahmudul Hoque, Felix Kim
