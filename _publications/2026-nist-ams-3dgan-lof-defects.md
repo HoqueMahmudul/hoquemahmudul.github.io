@@ -25,3 +25,5 @@ This paper presents a three-dimensional generative adversarial network (3D-GAN) 
 Additive manufacturing, defect, pore generation, three-dimensional generative adversarial network, defect dataset development, pore morphology, component aware loss module, volumetric image registration, XCT simulation, non-destructive evaluation
 
 ---
+
+[Paper Link](https://doi.org/10.6028/NIST.AMS.100-73)
