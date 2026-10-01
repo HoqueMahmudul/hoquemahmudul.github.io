@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I conduct machine learning research at Morgan State University, focusing on interpretable, reliable, and resource-efficient generative and vision-language models for biomedical and scientific applications. I completed my M.S. in *Advanced Computing* at [Morgan State University](https://www.morgan.edu/) in 2025 under the supervision of [Dr. Md Mahmudur Rahman](https://www.morgan.edu/computer-science/faculty-and-staff/md-rahman).
+I am a Machine Learning Researcher at Morgan State University, focusing on interpretable, reliable, and resource-efficient generative and vision-language models for high-stakes scientific applications. I completed my M.S. in *Advanced Computing* at [Morgan State University](https://www.morgan.edu/) in 2025 under the supervision of [Dr. Md Mahmudur Rahman](https://www.morgan.edu/computer-science/faculty-and-staff/md-rahman).
 
 My masters research was supported by a [National Science Foundation grant](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2131207&HistoricalAwards=false) on deep learning-based medical image captioning, where I conducted an empirical investigation of vision–language models for automated radiology image captioning, optimizing architectures through parameter-efficient fine-tuning and quantization.
 
